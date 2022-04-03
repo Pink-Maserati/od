@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe60780b-02fa-4bd3-843c-68dff6e768f8" name="Default Changelist" comment="od">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/od.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TLV解码/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VLAN资源池/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VLAN资源池/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/众数和中位数/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/众数和中位数/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内存资源分配/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/分班/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/分糖果/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/判断字符串子序列/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单词接龙/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/喊7的次数重排/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/太阳能板最大面积/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/太阳能板最大面积/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串分割/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串分割/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串加密/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串变换最小字符串/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串变换最小字符串/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串相加/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串相加/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串统计/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/字符串统计/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/射击/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/射击/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/工号/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/工号/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/快递运输/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/快递运输/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/报数游戏/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/报数游戏/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼接URL/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/拼接URL/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/按身高和体重排队/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/按身高和体重排队/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/整数对最小和/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/整数对最小和/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/最长元音子串的长度/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/最长元音子串的长度/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/最长连续子序列/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/消消乐游戏/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/消消乐游戏/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/猴子爬山/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/相同子串/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/相同子串/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/相对开音节/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/相对开音节/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/磁盘容量排序/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/组成最大数/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/考勤信息/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/考勤信息/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/连续数列/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/连续数列/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/键盘/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/键盘/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/靠谱的车/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/靠谱的车/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高矮个子排队/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高矮个子排队/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Pink-Maserati/iniConfigAnalysis" />
+        <option value="https://github.com/Pink-Maserati/od" />
+      </set>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="27GjazInSTUIFyDMZWUalOqyN7P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
